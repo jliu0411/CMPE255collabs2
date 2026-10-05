@@ -12,7 +12,8 @@ https://youtu.be/8gCsHudVDPw
 Part 4: NvIDIA rapids comparision with cpu version  
 https://youtu.be/EnrkS_3CVhg
 
-Part 5: Pycaret capabilities landscape
+Part 5: Pycaret capabilities landscape  
 https://youtu.be/qrsbOkxdgpc
 
-Part 6: Pycaret - MLOps
+Part 6: Pycaret - MLOps  
+https://youtu.be/TU1bAOy4vcw 
