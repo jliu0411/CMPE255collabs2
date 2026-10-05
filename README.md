@@ -9,8 +9,10 @@ https://youtu.be/xn4g9cYaYPI
 Part 3: Autogluon end2end ML with metrics etc  
 https://youtu.be/8gCsHudVDPw
 
-Part 4: NvIDIA rapids comparision with cpu version
+Part 4: NvIDIA rapids comparision with cpu version  
+https://youtu.be/EnrkS_3CVhg
 
 Part 5: Pycaret capabilities landscape
+https://youtu.be/qrsbOkxdgpc
 
 Part 6: Pycaret - MLOps
